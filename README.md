@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I tried my best , I have done the step 2 incorrectly I believe . I tried my best doing this project . I am very eager to learn . As I am a minority student I am very desperate and ambituous to achieve the highest goals one can attain through self development so can you please accept me in the Android University Bootcamp despite some of the mistakes I might have made . 
 
 ## License
 
